@@ -1,4 +1,4 @@
-# vue-internationalization
+# Internationalization to a Vue Application
 
 ## Project setup
 ```
@@ -25,5 +25,5 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### App Heroku
+See [Heroku](https://vue-internationalization.herokuapp.com/).
