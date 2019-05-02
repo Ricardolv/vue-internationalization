@@ -29,5 +29,4 @@ yarn run lint
 See [Heroku](https://vue-internationalization.herokuapp.com/).
 
 
-    ![App Heroku.](vue.gif)
-
+![App Heroku.](vue.gif)
