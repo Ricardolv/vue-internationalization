@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "express": "^4.16.4",
+    "vue": "^2.6.10",
+    "vue-flag-icon": "^1.0.6",
+    "vue-i18n": "^8.11.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.7.0",
