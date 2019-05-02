@@ -28,6 +28,6 @@ yarn run lint
 ### App Heroku
 See [Heroku](https://vue-internationalization.herokuapp.com/).
 
-<p align="center"> 
+
     ![App Heroku.](vue.gif)
-</p>
+
